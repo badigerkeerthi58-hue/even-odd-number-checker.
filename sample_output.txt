@@ -1,0 +1,23 @@
+Sample Output 1
+----------------
+=== Even and Odd Number Checker ===
+Enter a number: 12
+12 is Even.
+
+Sample Output 2
+----------------
+=== Even and Odd Number Checker ===
+Enter a number: 9
+9 is Odd.
+
+Sample Output 3
+----------------
+=== Even and Odd Number Checker ===
+Enter a number: -8
+-8 is Even.
+
+Sample Output 4
+----------------
+=== Even and Odd Number Checker ===
+Enter a number: 0
+0 is Even.
